@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [AI-Powered-Financial-Fraud-Detection.](https://qr-code-det-zhex4y8euxvdzaqggwxhgy.streamlit.app/)
+- 🔭 I’m currently working on https://ai-powered-financial-fraud-detection-nbnze8mkfwqvnc7okth2bs.streamlit.app/
 
 - 🌱 I’m currently learning **Gen Ai ,Agentic Ai ,Cloud**
 
